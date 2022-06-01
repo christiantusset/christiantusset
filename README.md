@@ -1,4 +1,4 @@
-Hi 👋👋 I am Christian Tusset!
+Hi 👋 I am Christian Tusset !
 =================================
 
 #Tech Lead | Software Engineer | Full Stack Developer | Java | Agile
