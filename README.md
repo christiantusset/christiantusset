@@ -64,5 +64,3 @@ Driven by the thirst for knowledge and the relentless desire to keep myself upda
   <a href="https://github.com/christiantusset" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiantusset&hide=css,html,javascript&theme=dracula" alt="Top Languages" /></a>
   <a href="http://www.github.com/christiantusset"><img src="https://github-readme-stats.vercel.app/api?username=christiantusset&show_icons=true&hide=contribs&theme=dracula&line_height=27" alt="christiantusset's GitHub stats" /></a>
 </p>
-
-<a href="http://www.github.com/christiantusset"><img src="https://activity-graph.herokuapp.com/graph?username=christiantusset&theme=dracula" alt="GitHub Commits Graph" /></a>
