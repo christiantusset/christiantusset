@@ -9,7 +9,7 @@ Driven by the thirst for knowledge and the relentless desire to keep myself upda
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [christiantusset@gmail.com](mailto:christiantusset@gmail.com)
 * 🚀  I'm currently working on [ProJuris](http://www.projuris.com.br/)
-* 🧠  I'm learning Python | Data Science | Machine Learning | IA
+* 🧠  I'm learning Golang | Big data | Performance Apps
 * 🤝  I'm open to collaborating on open source projects of my interest
 
 ### Skills
