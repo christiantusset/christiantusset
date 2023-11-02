@@ -4,13 +4,13 @@ Hi 👋 I am Christian Tusset !
 #Tech Lead | Software Engineer | Full Stack Developer | Java | Agile
 ---------------------------------------------------------
 
-Driven by the thirst for knowledge and the relentless desire to keep myself updated, my interest in the area of software/apps development is renewed along with the constant evolution of technologies. I am a professional who is in constant search to improve my performance and with that, generate more performance and easy maintenance software.
+Driven by the thirst for knowledge and the relentless desire to keep myself updated, my interest in the area of software/apps development is renewed along with the constant evolution of technologies. I am a professional who seeks to improve my own abilities, and by that, create higher-performance and easily maintainable software.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [christiantusset@gmail.com](mailto:christiantusset@gmail.com)
-* 🚀  I'm currently working on [ProJuris](http://www.projuris.com.br/)
+* 🚀  I'm currently working at [ProJuris](http://www.projuris.com.br/)
 * 🧠  I'm learning Golang | Big data | Performance Apps
-* 🤝  I'm open to collaborating on open source projects of my interest
+* 🤝  I'm available to collaborating on open source projects of my interest
 
 ### Skills
 
